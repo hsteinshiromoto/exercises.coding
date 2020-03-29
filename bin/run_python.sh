@@ -31,7 +31,7 @@ fi
 
 # ## Lint using flake8
 # lint:
-# 	flake8 src
+# 	flake8 exercises
 
 ## Upload Data to S3
 if [[ $1 == "to_s3" ]]; then

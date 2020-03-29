@@ -230,7 +230,7 @@ gh_toc_app() {
         echo "GitHub TOC generator ($app_name): $gh_toc_version"
         echo ""
         echo "Usage:"
-        echo "  $app_name [--insert] src [src]  Create TOC for a README file (url or local path)"
+        echo "  $app_name [--insert] exercises [exercises]  Create TOC for a README file (url or local path)"
         echo "  $app_name -                     Create TOC for markdown from STDIN"
         echo "  $app_name --help                Show help"
         echo "  $app_name --version             Show version"
